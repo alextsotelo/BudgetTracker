@@ -62,17 +62,22 @@ java Main
 
 𝟯. 𝗩𝗶𝗲𝘄 𝗕𝘂𝗱𝗴𝗲𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
 - Displays your total budget, remaining budget, and total spent so far
+  
 𝟰. 𝗩𝗶𝗲𝘄 𝗦𝗽𝗲𝗻𝗱𝗶𝗻𝗴 𝗯𝘆 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆
 - Shows a breakdown of how much you've spent in total per category
+  
 𝟱. 𝗩𝗶𝗲𝘄 𝗔𝗹𝗹 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀
 - Displays all transactions recorded.
+  
 𝟲. 𝗘𝗱𝗶𝘁/𝗗𝗲𝗹𝗲𝘁𝗲 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻
 - Displays all transactions, simply enter the number of the transaction you wish to select
 - Enter "1" to modify that transaction and set a new amount
 - Enter "2" to delete the transaction
+  
 𝟳. 𝗥𝗲𝘀𝗲𝘁 𝗕𝘂𝗱𝗴𝗲𝘁, 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀, 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀
 - Option to reset either only the budget, only the transactions (including categories), or both
 - Includes an option to "leave as is" (no changes made)
+  
 𝟴. 𝗘𝘅𝗶𝘁
 - Saves the data and stops the program.
 - ​𝗬𝗼𝘂 𝗠𝗨𝗦𝗧 𝗲𝘅𝗶𝘁 𝘁𝗵𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺 𝘄𝗶𝘁𝗵 𝘁𝗵𝗶𝘀 𝗼𝗽𝘁𝗶𝗼𝗻 𝗲𝘃𝗲𝗿𝘆 𝘁𝗶𝗺𝗲 𝗶𝗻 𝗼𝗿𝗱𝗲𝗿 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘁𝗼 𝗯𝗲 𝘀𝗮𝘃𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆.
