@@ -55,6 +55,7 @@ java Main
 ## Menu Options & How To Use
 𝟭. 𝗦𝗲𝘁 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝗕𝘂𝗱𝗴𝗲𝘁
 - Enter a positive number to set your total monthly budget
+  
 𝟮. 𝗔𝗱𝗱 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻
 - Enter a positive amount
 - Enter a category for the transaction
