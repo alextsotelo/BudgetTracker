@@ -20,7 +20,7 @@ public class Main {
         // Main Menu of the Program
         while (running) {
             System.out.println("\n=== Budget Tracker Menu ===");
-            System.out.println("1. Set Monthly budget");
+            System.out.println("1. Set Monthly Budget");
             System.out.println("2. Add Transaction");
             System.out.println("3. View Budget Summary");
             System.out.println("4. View Spending by Category");

@@ -1,10 +1,2 @@
-Total Budget:1000.0
-Remaining Budget:100.0
-Transaction:500.0,Rent
-Transaction:85.0,Groceries
-Transaction:40.0,Dining Out
-Transaction:60.0,Transportation
-Transaction:40.0,Entertainment
-Transaction:15.0,Subscription
-Transaction:100.0,Utilities
-Transaction:60.0,Car Payment
+Total Budget:0.0
+Remaining Budget:0.0
